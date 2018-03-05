@@ -1,0 +1,19 @@
+{
+  "name": "rainbowui-multilevel-side-menu",
+  "version": "2.0.0",
+  "description": "RainbowUI Multilevel Side Menu",
+  "main": "./src/index.js",
+  "keywords": [],
+  "author": "RainbowUI Team",
+  "publishConfig": {
+    "registry": "http://repo.ebaotech.com/artifactory/api/npm/npm-all"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://oss.ebaotech.com/rainbow-ui/multilevel-side-menu.git"
+  },
+  "dependencies": {
+    "rainbow-foundation-tools": "^2.0.3",
+    "rainbowui-core": "^2.0.0"
+  }
+}
